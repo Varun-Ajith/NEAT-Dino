@@ -42,4 +42,4 @@ This project was created by Varun Ajith as a demonstration of NEAT-based reinfor
 A heartfelt thank you to all the creators and researchers who contributed to the development of this project.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
