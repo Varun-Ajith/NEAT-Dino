@@ -28,7 +28,7 @@ git clone https://github.com/Varun-Ajith/NEAT-Dino.git
 1. Run the main script: `python main.py`
 2. Watch as the dinosaurs evolve and learn to play the game autonomously.
 
-![Snipett of the automatic dino game](Example.png)
+![Snipett of the automatic dino game](dino.png)
 
 ## Robot Applications
 The techniques demonstrated in this project have potential applications in robotics, particularly in the development of autonomous robots. By adapting the NEAT algorithm and neural network architectures, similar methods can be used to create intelligent behaviors for controlling robots in real-world scenarios. Examples include autonomous navigation, object detection and manipulation, and collaborative robotics.
